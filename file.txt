@@ -1,1 +1,4 @@
 My first line in project
+London is capital of GB
+
+Madrid is the capital of Spain
